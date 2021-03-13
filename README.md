@@ -11,6 +11,7 @@ _Resources related to all things crypto, cryptocurrencies, the cryptoeconomy, De
 ## Crypto Indexes
 
 - [TradeBlock’s XBX Index](https://tradeblock.com/markets/index)
+- [CMBI Bitcoin](https://cmbi-indexes.coinmetrics.io/cmbibtc)
 
 ## Educational Resources
 
